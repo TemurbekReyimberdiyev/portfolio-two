@@ -1,0 +1,67 @@
+{
+  "nav": {
+    "home": "Asosiy",
+    "about": "Haqimda",
+    "skills": "Tajriba",
+    "projects": "Loyihalar",
+    "contact": "Bog'lanish"
+  },
+  "about": {
+    "title": "Haqimda",
+    "bio": "Men chuqur bilim va tajribaga ega Python Backend dasturchiman. Murakkab arxitekturalar yaratish va biznes talablariga mos, ishonchli API xizmatlarini ishlab chiqishda o'z tajribam bilan takliflar bera olaman.",
+    "name_label": "Ism",
+    "name": "Temurbek Reyimberdiyev",
+    "role_label": "Kasb",
+    "role": "Python Developer",
+    "location_label": "Manzil",
+    "location": "Xorazm, O'zbekiston",
+    "phone_label": "Telefon",
+    "phone": "+998 95 969 21 12",
+    "education_label": "Ma'lumoti",
+    "education": "Computer Science bo'yicha Magistr",
+    "languages_label": "Tillar",
+    "languages": "Ingliz tili - C1, Rus tili - B1",
+    "workplace_label": "Ish joyi",
+    "workplace": "IT Park, Xorazm",
+    "download_cv": "Rezyumeni Yuklab Olish"
+  },
+  "hero": {
+    "tag": "Backend Developer",
+    "title1": "Python",
+    "title2": "kuchli tizimlar.",
+    "title_mid": "bilan",
+    "bio": "Django va FastAPI texnologiyalari orqali ishonchli, xavfsiz va yuqori yuklamalarga chidamli API'lar yarataman.",
+    "view_projects": "Loyihalarni ko'rish",
+    "contact_me": "Men bilan bog'lanish"
+  },
+  "skills": {
+    "title": "Texnologiyalar va Ko'nikmalar",
+    "subtitle": "Men asosan Backend yo'nalishida malakaga egaman va quyidagi texnologiyalardan doimiy foydalanaman."
+  },
+  "projects": {
+    "title": "Mening Loyihalarim",
+    "subtitle": "Haqiqiy muammolarni hal qiluvchi amaliy va ishonchli tizimlar namunasi.",
+    "view_all": "Barcha loyihalarni ko'rish \u2192",
+    "source_code": "Source Code",
+    "p1_title": "E-Commerce REST API",
+    "p1_desc": "To'liq huquqli elektron tijorat platformasi uchun Backend API. Maxsulotlarni boshqarish, savat, to'lov tizimini (Stripe/Click) integratsiyasi va foydalanuvchilar autentifikatsiyasi (JWT) amalga oshirilgan.",
+    "p2_title": "Avtomatlashtirilgan Telegram Bot",
+    "p2_desc": "Mijozlarga xizmat ko'rsatishni avtomatlashtirish uchun AI-ga asoslangan Telegram bot. Foydalanuvchi so'rovlarini qabul qilib, ma'lumotlar bazasiga saqlaydi va admin panel orqali boshqariladi.",
+    "p3_title": "Kriptovalyuta Data Scraper",
+    "p3_desc": "Turli birjalardan real vaqt rejimida kriptovalyuta narxlarini yig'uvchi va tahlil qiluvchi mikroservis. WebSocket orqali frontend-ga ma'lumot jo'natadi."
+  },
+  "contact": {
+    "title1": "Hamkorlik uchun",
+    "title2": "tayyorman",
+    "desc": "Agar sizning jamoangizga tajribali va motivatsiyaga boy dasturchi kerak bo'lsa, men bilan bog'laning!",
+    "email": "Elektron Pochta",
+    "phone": "Telefon raqam",
+    "telegram": "Telegram",
+    "form_title": "Xabar Qoldirish",
+    "name": "Ismingiz",
+    "email_ph": "Elektron pochtangiz",
+    "message": "Xabaringizni yozing...",
+    "submit": "Yuborish",
+    "rights": "Temurbek Reyimberdiyev. Barcha huquqlar himoyalangan."
+  }
+}

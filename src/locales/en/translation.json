@@ -1,0 +1,67 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "skills": "Skills",
+        "projects": "Projects",
+        "contact": "Contact"
+    },
+    "about": {
+        "title": "About me",
+        "bio": "I am a Python Backend developer with deep knowledge and experience. I specialize in building complex architectures and reliable API services tailored to specific business requirements.",
+        "name_label": "Name",
+        "name": "Temurbek Reyimberdiyev",
+        "role_label": "Role",
+        "role": "Python Developer",
+        "location_label": "Location",
+        "location": "Khorezm, Uzbekistan",
+        "phone_label": "Phone",
+        "phone": "+998 95 969 21 12",
+        "education_label": "Education",
+        "education": "Master's in Computer Science",
+        "languages_label": "Languages",
+        "languages": "English - C1, Russian - B1",
+        "workplace_label": "Current Workplace",
+        "workplace": "IT Park, Khorezm",
+        "download_cv": "Download Resume"
+    },
+    "hero": {
+        "tag": "Backend Developer",
+        "title1": "Powerful systems",
+        "title2": "Python.",
+        "title_mid": "with",
+        "bio": "I create reliable, secure, and highly scalable APIs using Django and FastAPI technologies.",
+        "view_projects": "View Projects",
+        "contact_me": "Contact Me"
+    },
+    "skills": {
+        "title": "Technologies and Skills",
+        "subtitle": "I specialize in Backend development and rely on the following tech stack."
+    },
+    "projects": {
+        "title": "My Projects",
+        "subtitle": "Examples of practical and robust systems solving real-world problems.",
+        "view_all": "View all projects \u2192",
+        "source_code": "Source Code",
+        "p1_title": "E-Commerce REST API",
+        "p1_desc": "A full-fledged Backend API for an e-commerce platform. Features include product management, cart, payment integration (Stripe/Click), and user authentication (JWT).",
+        "p2_title": "Automated Telegram Bot",
+        "p2_desc": "An AI-powered Telegram bot to automate customer service. It receives user queries, saves them to a database, and provides an admin panel for management.",
+        "p3_title": "Cryptocurrency Data Scraper",
+        "p3_desc": "A microservice that aggregates and analyzes cryptocurrency prices from various exchanges in real time, serving data to the frontend via WebSockets."
+    },
+    "contact": {
+        "title1": "Ready to",
+        "title2": "collaborate",
+        "desc": "If your team needs an experienced and motivated Full-Stack developer, get in touch with me!",
+        "email": "Email",
+        "phone": "Phone number",
+        "telegram": "Telegram",
+        "form_title": "Send Message",
+        "name": "Your name",
+        "email_ph": "Your email",
+        "message": "Write your message...",
+        "submit": "Send",
+        "rights": "Temurbek Reyimberdiyev. All rights reserved."
+    }
+}
