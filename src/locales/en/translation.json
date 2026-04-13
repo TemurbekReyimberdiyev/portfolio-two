@@ -50,6 +50,11 @@
         "p3_title": "Cryptocurrency Data Scraper",
         "p3_desc": "A microservice that aggregates and analyzes cryptocurrency prices from various exchanges in real time, serving data to the frontend via WebSockets."
     },
+    "experience": {
+        "title": "Work Experience",
+        "subtitle_experience": "Timeline of my professional career and accumulated experience.",
+        "itpark_period": "Oct 2022 - Present"
+    },
     "contact": {
         "title1": "Ready to",
         "title2": "collaborate",

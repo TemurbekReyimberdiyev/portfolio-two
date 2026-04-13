@@ -50,6 +50,11 @@
     "p3_title": "Kriptovalyuta Data Scraper",
     "p3_desc": "Turli birjalardan real vaqt rejimida kriptovalyuta narxlarini yig'uvchi va tahlil qiluvchi mikroservis. WebSocket orqali frontend-ga ma'lumot jo'natadi."
   },
+  "experience": {
+    "title": "Ish joylari",
+    "subtitle_experience": "Kasbiy faoliyatim va to'plagan tajribam ko'rinishi.",
+    "itpark_period": "2022-oktyabrdan - hozirgacha"
+  },
   "contact": {
     "title1": "Hamkorlik uchun",
     "title2": "tayyorman",
